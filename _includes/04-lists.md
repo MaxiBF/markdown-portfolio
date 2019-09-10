@@ -1,8 +1,8 @@
 1. nombre
 2. apellido
 3. direccion
-  i. coso
-  ii. cosocoso
+  1. coso
+  2. cosocoso
   
 - nombre
 - apellido
