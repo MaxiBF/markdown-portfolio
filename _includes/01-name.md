@@ -1,3 +1,3 @@
 # Portfolio
-###### Maxi bordon
-###### Mendoza
+Maxi bordon 
+Mendoza
